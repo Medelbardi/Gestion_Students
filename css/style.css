@@ -1,0 +1,211 @@
+body{
+    margin: 40px;
+    font-size: 12px;
+    font-family: 'Trispace', sans-serif !important;
+    text-transform: capitalize;
+}
+
+
+.log{
+    margin-top:130px ;
+    font-family: 'Trispace', sans-serif !important;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.formlog{
+    
+    margin: auto;
+    font-family: 'Trispace', sans-serif !important;
+    background-color: #212529;
+    width: 410px;
+    height: 380px;
+    border-radius: 30px;
+}
+
+.h2for{
+    font-family: 'Trispace', sans-serif !important;
+    color: white;
+    padding-top: 15px;
+
+}
+
+.infor{
+    font-family: 'Trispace', sans-serif !important;
+    margin-top: 35px;
+    width: 250px;
+    height: 38px;
+    border-radius: 8px;
+    text-align: center;
+    
+}
+
+.btfor{
+    font-family: 'Trispace', sans-serif !important;
+    margin-top: 60px;
+border-radius: 8px;
+border-color: #212529;
+width: 140px;
+height: 45px;
+}
+
+.btfor:hover{
+    opacity: 0.8;
+}
+
+#error{
+  color: white;
+  margin-top: 24px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+/* button size */
+#dtbtn{
+    font-size: 10px;
+}
+
+/* tablemargin */
+
+.tbmargin{
+    margin-top: 20px;
+}
+
+/* buttonnext */
+
+.divbtn {
+    text-align: center;
+
+}
+
+#nexpre {
+    margin-top: -8px;
+    font-size: 8px;
+    margin-right: 4px;
+
+}
+
+/* somebutton */
+
+#dlk{
+    background-color:#d9534f; 
+    font-size:12px; 
+    color:white; 
+    height:34px; 
+    width:110px; 
+    border: 1px solid; 
+    border-radius: 5px;
+    text-align: center; 
+    margin-top: -30px;
+    padding: 6px;
+    margin-right: 245px;
+}
+
+
+/* btn top */
+
+.row
+{
+margin: 10px;
+text-align: center;
+}
+#headbtn{
+
+    font-size: 15px;
+    width: 210px;
+    height: 35px;
+  
+    border-radius: 6px;
+
+}
+
+.btnn2{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+table tr:hover{
+    background-color: gray;
+}
+/* searchbutton */
+
+
+#searc1{
+    font-size: 15px;
+    height: 35px;
+    float: right;
+    margin-right: 15px;
+    padding-top:50px ;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+#searc2{
+    font-size: 15px;
+    width: 85px;
+    height: 35px;
+    margin-top: 0px;
+    margin-right: 5px;
+    border-radius: 6px;
+    
+}
+
+/* btnnotpayed */
+
+#notpaydbtn{
+    font-size: 10px;
+}
+
+/* insertsize */
+
+#formsiz{
+    width:320px ; 
+    font-size: 13px;
+    margin: auto;
+}
+
+#formse{
+    background-color:#212529 ;
+     padding-left: 31px; 
+     border-radius: 8px;
+     font-size: 13px;
+}
+
+#formse input {
+    padding: 14px;
+    border: 1px solid #292b2c;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Trispace', sans-serif;
+    border-radius: 5px;
+    text-transform: capitalize;
+    width: 90%;
+}
+
+#formse label {
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+#formse div select{
+    height: 38px;
+    border: 1px solid #292b2c;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Trispace', sans-serif;
+    border-radius: 5px;
+    text-transform: capitalize;
+    width: 90%;
+}
+
+#btnform{
+    width:90%;
+    height:38px ;
+    padding: 5px;
+    font-size: 13px;
+}
+
+.aler{
+    margin-bottom: 50px;
+    width:90%;
+}
+
